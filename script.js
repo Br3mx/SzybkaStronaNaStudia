@@ -355,10 +355,8 @@ function showProductDetails(productId) {
     </div>
   `;
 
-    // Zmiana tytułu strony
     document.getElementById("page-title").textContent = product.name;
 
-    // Zmieniamy URL
     history.pushState(
       { page: "product", productId: product.id },
       "",
@@ -370,23 +368,18 @@ function showProductDetails(productId) {
   }
 }
 
-// Funkcja do powrotu do listy
 function goBackToList() {
   document.getElementById("page-title").textContent =
     "Informacje o naszych produktach";
   displayProducts();
 
-  // Zmiana URL na główną stronę
   history.pushState({ page: "list" }, "", "/");
 }
 
-// Obsługa przycisku "wstecz" w przeglądarkach
 window.onpopstate = function (event) {
   if (event.state && event.state.page === "product") {
-    // Jeśli wróciliśmy do szczegółów, pokazujemy szczegóły produktu
     showProductDetails(event.state.productId);
   } else {
-    // Jeśli wróciliśmy do listy, pokazujemy listę produktów
     displayProducts();
   }
 };
