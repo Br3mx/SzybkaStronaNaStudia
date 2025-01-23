@@ -227,7 +227,6 @@ footer {
 
 /* Responsywność */
 
-/* Dla ekranów o szerokości poniżej 480px (telefony) */
 @media screen and (max-width: 860px) {
   body {
     font-size: 0.9rem;
