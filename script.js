@@ -6,11 +6,11 @@ const products = [
     Shortdescription: "Stylowy zegarek, który pasuje do każdej okazji.",
     description:
       "Uniwersalny zegarek, który z łatwością wpasowuje się w każdą sytuację. Jego ponadczasowy design i staranne wykonanie sprawiają, że stanowi idealne uzupełnienie zarówno codziennych, jak i bardziej formalnych stylizacji. Niezależnie od tego, czy wybierasz się do pracy, na spotkanie z przyjaciółmi czy ważne wydarzenie, ten zegarek zawsze będzie wyglądał stylowo i elegancko, podkreślając Twój wyjątkowy charakter i dbałość o detale.",
-    image: "/img/alexa/alexa-main.jpg",
+    image: "img/alexa/alexa-main.jpg",
     restImg: [
-      "/img/alexa/alexa-rest.jpg",
-      "/img/alexa/alexa-rest1.jpg",
-      "/img/alexa/alexa-rest2.jpg",
+      "img/alexa/alexa-rest.jpg",
+      "img/alexa/alexa-rest1.jpg",
+      "img/alexa/alexa-rest2.jpg",
     ],
     list: [
       "Mechanizm: kwarcowy",
@@ -30,11 +30,11 @@ const products = [
       "Elegancki czasomierz z prostym i ponadczasowym designem.",
     description:
       "Zegarek, który łączy w sobie tradycję i nowoczesność. Dzięki klasycznemu wzornictwu i wysokiej jakości materiałom jest nie tylko praktycznym narzędziem do odmierzania czasu, ale również wyrazem dobrego smaku i indywidualnego stylu. Jego uniwersalność pozwala nosić go każdego dnia, a starannie dopracowane detale przyciągają uwagę i dodają wyjątkowego charakteru każdej stylizacji.",
-    image: "/img/bowa/bowa-main.jpg",
+    image: "img/bowa/bowa-main.jpg",
     restImg: [
-      "/img/bowa/bowa-rest.jpg",
-      "/img/bowa/bowa-rest1.jpg",
-      "/img/bowa/bowa-rest2.jpg",
+      "img/bowa/bowa-rest.jpg",
+      "img/bowa/bowa-rest1.jpg",
+      "img/bowa/bowa-rest2.jpg",
     ],
     list: [
       "Mechanizm: automatyczny",
@@ -55,11 +55,11 @@ const products = [
     Shortdescription: "Funkcjonalny zegarek o nowoczesnym wyglądzie.",
     description:
       "Stylowy czasomierz, który został zaprojektowany z myślą o osobach ceniących prostotę i funkcjonalność. Jego minimalistyczna tarcza w połączeniu z solidnym wykończeniem tworzy harmonijną całość, która pasuje zarówno do eleganckich, jak i casualowych strojów. To zegarek, który nie tylko mierzy czas, ale również opowiada historię Twojego wyjątkowego stylu życia.",
-    image: "/img/certina/certina-main.jpg",
+    image: "img/certina/certina-main.jpg",
     restImg: [
-      "/img/certina/certina-rest.jpg",
-      "/img/certina/certina-rest1.jpg",
-      "/img/certina/certina-rest2.jpg",
+      "img/certina/certina-rest.jpg",
+      "img/certina/certina-rest1.jpg",
+      "img/certina/certina-rest2.jpg",
     ],
     list: [
       "Mechanizm: hybrydowy",
@@ -79,11 +79,11 @@ const products = [
     Shortdescription: "Klasyczny model, który łączy wygodę z estetyką.",
     description:
       "Ponadczasowy zegarek dla osób, które cenią sobie uniwersalność i elegancję. Wykonany z najwyższą precyzją, łączy subtelne detale z praktycznymi funkcjami, dzięki czemu staje się idealnym towarzyszem w codziennym życiu. Niezależnie od okazji, jego klasyczny design wprowadza odrobinę wyrafinowania i podkreśla Twoją dbałość o szczegóły.",
-    image: "/img/frederique/frederique-main.jpg",
+    image: "img/frederique/frederique-main.jpg",
     restImg: [
-      "/img/frederique/frederique-rest.jpg",
-      "/img/frederique/frederique-rest1.jpg",
-      "/img/frederique/frederique-rest2.jpg",
+      "img/frederique/frederique-rest.jpg",
+      "img/frederique/frederique-rest1.jpg",
+      "img/frederique/frederique-rest2.jpg",
     ],
     list: [
       "Mechanizm: kwarcowy",
@@ -104,11 +104,11 @@ const products = [
       "Minimalistyczny zegarek zaprojektowany z myślą o codziennym użytkowaniu.",
     description:
       "To nie tylko zegarek, ale także wyraz Twojej osobowości. Jego starannie przemyślany design sprawia, że jest doskonałym dodatkiem do każdej stylizacji, a wysoka jakość wykonania gwarantuje niezawodność przez lata. Subtelne wykończenia dodają mu charakteru, a uniwersalny styl sprawia, że jest to idealny wybór zarówno na co dzień, jak i na wyjątkowe okazje.",
-    image: "/img/garett/garett-main.jpg",
+    image: "img/garett/garett-main.jpg",
     restImg: [
-      "/img/garett/garett-rest.jpg",
-      "/img/garett/garett-rest1.jpg",
-      "/img/garett/garett-rest2.jpg",
+      "img/garett/garett-rest.jpg",
+      "img/garett/garett-rest1.jpg",
+      "img/garett/garett-rest2.jpg",
     ],
     list: [
       "Mechanizm: solarny",
@@ -129,11 +129,11 @@ const products = [
     Shortdescription: "Uniwersalny czasomierz, który podkreśla Twój styl.",
     description:
       "Zegarek, który harmonijnie łączy w sobie funkcjonalność i estetykę. Jego wytrzymała konstrukcja i elegancki wygląd czynią go idealnym dodatkiem na każdą okazję – od codziennych spotkań po wieczorowe wyjścia. To akcesorium, które nie tylko ułatwia życie, ale również podkreśla Twoją wyjątkowość i dbałość o detale.",
-    image: "/img/herbelin/herbelin-main.jpg",
+    image: "img/herbelin/herbelin-main.jpg",
     restImg: [
-      "/img/herbelin/herbelin-rest.jpg",
-      "/img/herbelin/herbelin-rest1.jpg",
-      "/img/herbelin/herbelin-rest2.jpg",
+      "img/herbelin/herbelin-rest.jpg",
+      "img/herbelin/herbelin-rest1.jpg",
+      "img/herbelin/herbelin-rest2.jpg",
     ],
     list: [
       "Mechanizm: automatyczny z rezerwą chodu 40h",
@@ -152,11 +152,11 @@ const products = [
     Shortdescription: "Zegarek o praktycznym i trwałym wykonaniu.",
     description:
       "Praktyczny i stylowy zegarek zaprojektowany z myślą o nowoczesnym użytkowniku. Dzięki swojej uniwersalności może być noszony zarówno w sytuacjach formalnych, jak i podczas codziennych aktywności. To więcej niż narzędzie – to ozdoba, która podkreśla Twoją klasę, a jednocześnie pozostaje niezwykle wygodna i funkcjonalna.",
-    image: "/img/luminox/luminox-main.jpg",
+    image: "img/luminox/luminox-main.jpg",
     restImg: [
-      "/img/luminox/luminox-rest.jpg",
-      "/img/luminox/luminox-rest1.jpg",
-      "/img/luminox/luminox-rest2.png",
+      "img/luminox/luminox-rest.jpg",
+      "img/luminox/luminox-rest1.jpg",
+      "img/luminox/luminox-rest2.png",
     ],
     list: [
       "Mechanizm: kwarcowy",
@@ -175,11 +175,11 @@ const products = [
     Shortdescription: "Wyrafinowany design, który dopełni każdy strój.",
     description:
       "Zegarek dla tych, którzy szukają czegoś więcej niż tylko urządzenia do odmierzania czasu. Jego elegancki, a jednocześnie praktyczny design sprawia, że doskonale wpisuje się w różne style życia i modowe gusta. Idealnie wyważone proporcje, solidne wykonanie i uniwersalny charakter czynią go idealnym wyborem na każdą okazję, od biznesowych spotkań po codzienne obowiązki.",
-    image: "/img/polar/polar-main.jpg",
+    image: "img/polar/polar-main.jpg",
     restImg: [
-      "/img/polar/polar-rest.jpg",
-      "/img/polar/polar-rest1.jpg",
-      "/img/polar/polar-rest2.jpg",
+      "img/polar/polar-rest.jpg",
+      "img/polar/polar-rest1.jpg",
+      "img/polar/polar-rest2.jpg",
     ],
     list: [
       "Mechanizm: automatyczny",
@@ -198,11 +198,11 @@ const products = [
     Shortdescription: "Subtelne wzornictwo dla osób ceniących prostotę.",
     description:
       "Zegarek, który jest doskonałym połączeniem nowoczesnych rozwiązań i klasycznego wzornictwa. Jego minimalistyczny styl sprawia, że pasuje do wszystkiego, a starannie dobrane materiały gwarantują trwałość i niezawodność. To akcesorium, które nie tylko ułatwia kontrolę nad czasem, ale również podkreśla Twoją wyjątkowość i wyczucie estetyki.",
-    image: "/img/suunto/suunto-main.jpg",
+    image: "img/suunto/suunto-main.jpg",
     restImg: [
-      "/img/suunto/suunto-rest.jpg",
-      "/img/suunto/suunto-rest1.jpg",
-      "/img/suunto/suunto-rest2.jpg",
+      "img/suunto/suunto-rest.jpg",
+      "img/suunto/suunto-rest1.jpg",
+      "img/suunto/suunto-rest2.jpg",
     ],
     list: [
       "Mechanizm: solarny",
@@ -222,11 +222,11 @@ const products = [
       "Wszechstronny zegarek idealny na co dzień i na wyjątkowe chwile.",
     description:
       "To zegarek, który wyróżnia się w swojej prostocie i elegancji. Jego uniwersalny design sprawia, że jest idealnym dodatkiem do każdej stylizacji – od casualowych po bardziej oficjalne. Dzięki wysokiej jakości wykonania i przemyślanym detalom jest to nie tylko praktyczne narzędzie, ale również element, który przyciąga wzrok i podkreśla Twój indywidualny styl.",
-    image: "/img/timex/timex-main.jpg",
+    image: "img/timex/timex-main.jpg",
     restImg: [
-      "/img/timex/timex-rest.jpg",
-      "/img/timex/timex-rest1.jpg",
-      "/img/timex/timex-rest2.jpg",
+      "img/timex/timex-rest.jpg",
+      "img/timex/timex-rest1.jpg",
+      "img/timex/timex-rest2.jpg",
     ],
     list: [
       "Mechanizm: kwarcowy",
@@ -245,11 +245,11 @@ const products = [
     Shortdescription: "Połączenie nowoczesności i klasyki w jednym modelu.",
     description:
       "Zegarek, który zachwyca uniwersalnym stylem i funkcjonalnością. Każdy jego szczegół został starannie zaprojektowany, by zapewnić nie tylko wygodę noszenia, ale również wyjątkowy wygląd. To idealny wybór dla osób, które cenią sobie klasykę, elegancję i trwałość w jednym akcesorium, które można nosić każdego dnia.",
-    image: "/img/tissot/tissot-main.jpg",
+    image: "img/tissot/tissot-main.jpg",
     restImg: [
-      "/img/tissot/tissot-rest.jpg",
-      "/img/tissot/tissot-rest1.jpg",
-      "/img/tissot/tissot-rest2.jpg",
+      "img/tissot/tissot-rest.jpg",
+      "img/tissot/tissot-rest1.jpg",
+      "img/tissot/tissot-rest2.jpg",
     ],
     list: [
       "Mechanizm: mechaniczny z ręcznym naciągiem",
