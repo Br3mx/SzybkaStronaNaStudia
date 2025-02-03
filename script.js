@@ -373,7 +373,7 @@ function goBackToList() {
     "Informacje o naszych produktach";
   displayProducts();
 
-  history.pushState({ page: "list" }, "", "/");
+  history.pushState({ page: "list" }, "", "/SzybkaStronaNaStudia/");
 }
 
 window.onpopstate = function (event) {
