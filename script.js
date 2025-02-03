@@ -374,6 +374,9 @@ function goBackToList() {
   displayProducts();
 
   history.pushState({ page: "list" }, "", "/SzybkaStronaNaStudia/");
+  if (window.location.pathname !== "/SzybkaStronaNaStudia/") {
+    window.location.href = "/SzybkaStronaNaStudia/";
+  }
 }
 
 window.onpopstate = function (event) {
